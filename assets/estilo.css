@@ -21,14 +21,19 @@ outline: none !important;
 }
 
 .inscrevase {
-    width:220px;
+    width:200px;
   padding: 15px;
   margin: -150px auto 100px auto;
   border: 3px #55bfcc solid;
+  background-color: #55bfcc;
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
   -ms-border-radius: 7px;
   border-radius: 7px;
+}
+
+.inscrevase a {
+	color: transparent;
 }
 
 h1,h2,h3,h4{margin: 0;line-height: 1em;}
