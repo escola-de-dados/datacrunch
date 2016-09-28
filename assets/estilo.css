@@ -33,7 +33,11 @@ outline: none !important;
 }
 
 .inscrevase a {
-	color: transparent;
+	color: #1c3a48;
+}
+
+.inscrevase i {
+	color: #1c3a48;
 }
 
 h1,h2,h3,h4{margin: 0;line-height: 1em;}
