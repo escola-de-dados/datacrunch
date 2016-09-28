@@ -15,6 +15,22 @@ outline: none !important;
 .btn:hover {color:#55bfcc;}
 .btn:active li{background-color:#55bfcc; !important}
 
+.inscrevase-div {
+  width:100%;
+    height: 150px;
+}
+
+.inscrevase {
+    width:220px;
+  padding: 15px;
+  margin: -150px auto 100px auto;
+  border: 3px #55bfcc solid;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  border-radius: 7px;
+}
+
 h1,h2,h3,h4{margin: 0;line-height: 1em;}
 h1{font:700 3em Fjalla One,Arial,Helvetica;padding:5em 0;text-transform: uppercase;color: #fff;}
 .post-title {font:700 2.0em Roboto,Arial,Helvetica; padding:0 0 5em 0;}
