@@ -48,6 +48,8 @@ h3{font:700 1.25em Raleway,Arial,Helvetica;margin:0.5em 0;}
 
 p {font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
+.spacer-instrutores p {text-align:center;}
+
 .container{width: 100%; max-width: 1400px;}
 .wrapper{background-color: #fff;}
 .spacer{padding:5em 3em; padding-bottom:0;}
