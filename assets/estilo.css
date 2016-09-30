@@ -48,8 +48,6 @@ h3{font:700 1.25em Raleway,Arial,Helvetica;margin:0.5em 0;}
 
 p {font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
-.spacer-instrutores p {text-align:center;}
-
 .container{width: 100%; max-width: 1400px;}
 .wrapper{background-color: #fff;}
 .spacer{padding:5em 3em; padding-bottom:0;}
@@ -59,7 +57,7 @@ p {font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .spacer-contact {padding:3em 3em 0 3em;}
 .descr {padding-bottom: 1em;}
 
-.spacer-instrutores p {font-size:0.9em;line-height: 1.5em; margin-bottom: 1.5em;text-align: justify;}
+.spacer-instrutores p {font-size:0.9em;line-height: 1.5em; margin-bottom: 1.5em;text-align: center;}
 
 #mesa1, #mesa2, #mesa3, #workshop1, #workshop2, #workshop3 {font-size:12px !important; line-height: 14px !important; padding:10px !important; margin:10px auto; border:1px dashed #666;}
 
